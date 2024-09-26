@@ -15,7 +15,7 @@
 
  **<h3 align="left">Happy Coding 🙂</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
+**<h3 align="left">Currently State</h3>**
 
 - 💼 I'm currently working on: **💻 React Native and Front End Engineer at PT Weha Transportasi Indonesia**
 - 🌱 I'm currently learning: **📚 Exploring Flutter**
