@@ -29,6 +29,7 @@
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adam080880&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=adam080880&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://raw.githubusercontent.com/adam080880/adam080880/output/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub top-langs Card" />
 </p>
 
 <p align="left">
